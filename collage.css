@@ -1,0 +1,40 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+.navbar-light .navbar-brand {
+    color: white !important;
+    font-size: 37px;
+}
+.mainhead nav.navbar.navbar-expand-lg.navbar-light {
+    background-color: darkblue;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: white !important;
+}
+.w-100 {
+    width: 100% !important;
+    height: 525px !important;
+}
+
+
+.box img {
+    height: 279px;
+    width: 371px;
+}
+.mt-5 {
+    margin-top: 3rem!important;
+    /* margin-left: 158px; */
+    justify-content: space-between;
+}
+.card img{
+    border-radius: 50%;
+    height: 340px;
+}
+.footer{
+    padding-top: 63px;
+    padding-bottom: 20px;
+}
